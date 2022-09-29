@@ -2,7 +2,7 @@
 //         Aplication Programming Interface
 //      interfaz que permite comunicar dos entidades
 /*  Conjunto de funciones y procedimientos qure cumplen una
-  o muchas funciones con el fin de ser utilizadas por otro software */
+  o muchas funciones con el fin de ser utilizadas por otro software lalalalala*/
 
 
 
